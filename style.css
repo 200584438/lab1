@@ -1,0 +1,21 @@
+h1,h2{
+    color: brown;
+    text-align: center;
+}
+img{
+    margin-left: auto;
+    align-content: center;
+
+
+}
+body{
+    display: block;
+    margin-left: auto;
+    min-width: 768px;
+    text-align: center;
+}
+main{
+    width: 800px;
+    height: 800px;
+    text-align: center;
+}
